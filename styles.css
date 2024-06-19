@@ -1,3 +1,13 @@
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2
+{
+    color: #541d88;
+}
+
 h1
 {
     font-weight: bolder;
@@ -5,6 +15,17 @@ h1
 
 h2
 {
-    font-family: Arial, Helvetica, sans-serif;
     background-color: aquamarine;
 }
+
+ol
+{
+    font-style: italic;
+}
+
+li
+{
+    font-weight: lighter;
+    color: rgb(0, 47, 51);
+}
+
