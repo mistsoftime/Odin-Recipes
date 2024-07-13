@@ -29,3 +29,23 @@ li
     color: rgb(0, 47, 51);
 }
 
+
+/* FOR THE BOX MODEL (right now only in the index) */
+
+
+.title
+{
+    background: #d7d1ec;
+    width: 100%;
+    text-align: center;
+    margin: 8px;
+    padding: 8px;
+}
+
+.list
+{
+    background: #f3f0fe;
+    width: 100%;
+    margin: 8px;
+    padding: 32px;
+}
